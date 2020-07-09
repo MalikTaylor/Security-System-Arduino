@@ -13,6 +13,7 @@ $8.99  | [Real Time Clock (RTC) Module](https://www.amazon.com/Diymore-AT24C32-A
 6.28   | [Piezo Buzzer](https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_2_sspa?dchild=1&keywords=Piezo+buzzer+arduino&qid=1594317911&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlJUMTBFNFZWWEM3JmVuY3J5cHRlZElkPUEwMTY0OTkxMTdFN1RYUFhINk1SRSZlbmNyeXB0ZWRBZElkPUEwMTgyMDYzUTNBNzg1OVhJT01EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)|
 6.99   | [10k Potentiometer](https://www.amazon.com/MCIGICM-Breadboard-Trim-Potentiometer-Arduino/dp/B07S69443J/ref=sr_1_9?dchild=1&keywords=potentiometer+10k&qid=1594318059&sr=8-9)|
 --     | [2x 330ohm Resistors ](https://www.amazon.com/AUSTOR-Resistors-Assortment-Resistor-Experiments/dp/B07BKRS4QZ/ref=sr_1_4?dchild=1&keywords=Resistors&qid=1594318231&sr=8-4)
+8.99   | [Button Keypad](https://www.amazon.com/gp/product/B07B4DR5SH/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 
 
 
