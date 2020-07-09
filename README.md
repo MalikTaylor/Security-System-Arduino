@@ -1,9 +1,9 @@
 # Security-System-Arduino
 Here's my basic Arduino Security system that I have been working on. In order to access the system the user must enter their correct password, currently the security system can store multiple passwords for different users. For detecting motion the system uses a PIR Sensor, once triggered, the system signals an alarm using the Piezo Buzzer. The user will be prompted to enter in their password in order to deactivate the alarm for a maximum of three entries. If the user falsey enters in the password more than three times, the security system will enter Alert mode. Once accessed, the user will be taken to the security systems menu screen where they can change their password or activate the alarm.
 
-##Setup
+## Setup
 
-###Materials
+### Materials
 
 Cost   | Name |                                                                           
 ------ | ---- |                                                                           
