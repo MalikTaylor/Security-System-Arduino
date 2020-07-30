@@ -23,6 +23,12 @@ $8.99  | [Real Time Clock (RTC) Module](https://www.amazon.com/Diymore-AT24C32-A
 ---    | [2x LED ](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_4?crid=3HCMV47TVPSM5&dchild=1&keywords=led+diodes&qid=1596075010&sprefix=led+dio%2Caps%2C178&sr=8-4)
 Total  | $52.23|
 
+###Schematic
+
+<p align="center">
+ <img width="450" height="300" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Schematic/Schematic.png">
+</p>
+
 <br>
 <a href="https://personal-website-c1fb5.web.app/">Website</a>
  - <a href="https://www.instagram.com/__maliktaylor/">Instagram</a>
