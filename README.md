@@ -1,4 +1,9 @@
 # Security-System-Arduino
+ 
+<p align="center">
+  <img width="450" height="300" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Images/Secuirty%20System%206-30-2020.JPG">
+</p>
+
 ### About
 This project is a basic Security system powered by the Arduino Uno. To access the system the user must enter their correct password. Currently, the security system can store multiple passwords for different users. For detecting motion the system uses a PIR Sensor, once triggered, the system signals an alarm using the Piezo Buzzer. The user will be prompted to enter their password to deactivate the alarm for a maximum of three entries. If the user falsely enters in the password more than three times, the security system will enter Alert mode. Once accessed, the user will be taken to the security systems menu screen where they can change their password or activate the alarm.
 
@@ -18,5 +23,10 @@ $8.99  | [Real Time Clock (RTC) Module](https://www.amazon.com/Diymore-AT24C32-A
 ---    | [2x LED ](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_4?crid=3HCMV47TVPSM5&dchild=1&keywords=led+diodes&qid=1596075010&sprefix=led+dio%2Caps%2C178&sr=8-4)
 Total  | $52.23|
 
-
+<br>
+<a href="https://personal-website-c1fb5.web.app/">Website</a>
+ - <a href="https://www.instagram.com/__maliktaylor/">Instagram</a>
+ - <a href="https://www.youtube.com/channel/UCZMicsoHBOJebbyCS7dWkTg?">YouTube</a>
+ <br>
+ <br>
 
