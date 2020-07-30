@@ -12,9 +12,9 @@ $8.99  | [16x2 LCD Display](https://www.amazon.com/SunFounder-Serial-Module-Disp
 $5.99  | [I2C Adapter](https://www.amazon.com/gp/product/B00VC2NEU8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|
 $8.99  | [Real Time Clock (RTC) Module](https://www.amazon.com/Diymore-AT24C32-Arduino-Without-Battery/dp/B01IXXACD0/ref=sr_1_7_sspa?crid=2JCC12MQ4WGO&dchild=1&keywords=real+time+clock+arduino&qid=1594317754&sprefix=real+time+clock+arduino%2Caps%2C254&sr=8-7-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQ0RWMUs3MUtFMFNWJmVuY3J5cHRlZElkPUEwMjIxNTI4MzJPOTJLWDlLWEkxRiZlbmNyeXB0ZWRBZElkPUEwODQwMjI5UDVINkpNTUZCNlFVJndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)|
 6.28   | [Piezo Buzzer](https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_2_sspa?dchild=1&keywords=Piezo+buzzer+arduino&qid=1594317911&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlJUMTBFNFZWWEM3JmVuY3J5cHRlZElkPUEwMTY0OTkxMTdFN1RYUFhINk1SRSZlbmNyeXB0ZWRBZElkPUEwMTgyMDYzUTNBNzg1OVhJT01EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)|
+8.99   | [Button Keypad](https://www.amazon.com/gp/product/B07B4DR5SH/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)|
 ---    | [2x 330ohm Resistors ](https://www.amazon.com/AUSTOR-Resistors-Assortment-Resistor-Experiments/dp/B07BKRS4QZ/ref=sr_1_4?dchild=1&keywords=Resistors&qid=1594318231&sr=8-4)|
 ---    | [2x LED ](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_4?crid=3HCMV47TVPSM5&dchild=1&keywords=led+diodes&qid=1596075010&sprefix=led+dio%2Caps%2C178&sr=8-4)|
-8.99   | [Button Keypad](https://www.amazon.com/gp/product/B07B4DR5SH/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 Total  | $52.23|
 
 
