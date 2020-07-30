@@ -14,7 +14,7 @@ $8.99  | [Real Time Clock (RTC) Module](https://www.amazon.com/Diymore-AT24C32-A
 6.28   | [Piezo Buzzer](https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_2_sspa?dchild=1&keywords=Piezo+buzzer+arduino&qid=1594317911&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRlJUMTBFNFZWWEM3JmVuY3J5cHRlZElkPUEwMTY0OTkxMTdFN1RYUFhINk1SRSZlbmNyeXB0ZWRBZElkPUEwMTgyMDYzUTNBNzg1OVhJT01EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)|
 8.99   | [Button Keypad](https://www.amazon.com/gp/product/B07B4DR5SH/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)|
 ---    | [2x 330ohm Resistors ](https://www.amazon.com/AUSTOR-Resistors-Assortment-Resistor-Experiments/dp/B07BKRS4QZ/ref=sr_1_4?dchild=1&keywords=Resistors&qid=1594318231&sr=8-4)|
----    | [2x LED ](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_4?crid=3HCMV47TVPSM5&dchild=1&keywords=led+diodes&qid=1596075010&sprefix=led+dio%2Caps%2C178&sr=8-4)|
+---    | [2x LED ](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_4?crid=3HCMV47TVPSM5&dchild=1&keywords=led+diodes&qid=1596075010&sprefix=led+dio%2Caps%2C178&sr=8-4)
 Total  | $52.23|
 
 
