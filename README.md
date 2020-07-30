@@ -26,7 +26,7 @@ Total  | $52.23|
 ### Schematic
 
 <p align="center">
- <img width="450" height="300" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Schematic/Schematic.png">
+ <img width="600" height="400" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Schematic/Schematic.png">
 </p>
 
 <br>
