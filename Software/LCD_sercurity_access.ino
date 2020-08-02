@@ -8,7 +8,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 #define pirSensor 13 
 #define redLED 11 //IMPLEMNT THESE
 #define greenLED 12
-#define buzzer 9
+#define buzzer 10
 
 int detectionStatus; //Motion Detection
 
@@ -41,7 +41,7 @@ char keyMap [keyRow] [keyCols] = {
   {'*', '0', '#', 'D'}
 };
 
-byte rowPins [keyRow] = {6,7,8,10}; //defines the pins of the keypad row
+byte rowPins [keyRow] = {6,7,8,9}; //defines the pins of the keypad row
 byte colPins [keyCols] = {2,3,4,5}; //defines the pins of the keypad columns
 
 Keypad myKeypad = Keypad( makeKeymap(keyMap), rowPins, colPins, keyRow, keyCols);
