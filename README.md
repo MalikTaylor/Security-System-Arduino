@@ -1,7 +1,7 @@
 # Security-System-Arduino
  
 <p align="center">
-  <img width="450" height="300" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Images/Secuirty%20System%206-30-2020.JPG">
+  <img width="450" height="300" src="https://github.com/MalikTaylor/Security-System-Arduino/blob/master/Images/Secuirty%20System%207-26-2020.JPG">
 </p>
 
 ### About
