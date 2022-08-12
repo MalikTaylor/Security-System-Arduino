@@ -30,7 +30,7 @@ Total  | $52.23|
 </p>
 
 <br>
-<a href="https://personal-website-c1fb5.web.app/">Website</a>
+<a href="https://maliktaylor.co/">Website</a>
  - <a href="https://www.instagram.com/__maliktaylor/">Instagram</a>
  - <a href="https://www.youtube.com/channel/UCZMicsoHBOJebbyCS7dWkTg?">YouTube</a>
  <br>
